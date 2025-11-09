@@ -29,21 +29,19 @@ Bot, hem kullanıcılarla etkileşimi artırmak hem de eğitici bilgiler sağlam
    pip install discord.py requests
    
 2. **Proje klasör yapısını oluştur:**
-   ├── bot.py
-   ├── images/
-   │   ├── mem1.png
-   │   ├── mem2.png
-   │   └── mem3.png
+   Klasör --> bot.py
+   Klasör --> images
+   images --> mem1.png , mem2.png , mem3.png
    
-3. **Discord bot token’ını ekle:**
+4. **Discord bot token’ını ekle:**
    Kodun en altındaki `bot.run("GİZLİ_TOKEN")` kısmına kendi bot token’ını yerleştir.
    
-4. **Botu Başlat:**
+5. **Botu Başlat:**
    Windows için : 
    `python bot.py`
    MacOS ve Linux için :
    `pyhon3 bot.py`
-5. **Discord'da Test Et**:
+6. **Discord'da Test Et**:
    Botun bulduğu sunucuda aşağıdaki komutlardan birini yaz:
    `#hello`
    `#duck`
@@ -54,5 +52,7 @@ Bot, hem kullanıcılarla etkileşimi artırmak hem de eğitici bilgiler sağlam
 									
 ⚠️**DİKKAT**⚠️
 `fox2` komutu çalışmayabilir!!!
+Bulduğunuz hataları ve Geliştirlebilecek kısımları bana yollarsanız sevinirim.
+
    
 
