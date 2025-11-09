@@ -53,6 +53,7 @@ Bot, hem kullanıcılarla etkileşimi artırmak hem de eğitici bilgiler sağlam
 ⚠️**DİKKAT**⚠️
 `fox2` komutu çalışmayabilir!!!
 Bulduğunuz hataları ve Geliştirlebilecek kısımları bana yollarsanız sevinirim.
+Profilimden E-mail ulaşabilirsiniz.
 
    
 
